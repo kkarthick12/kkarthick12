@@ -1,17 +1,3 @@
-<!--
-**kkarthick12/kkarthick12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align = "center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=29&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
  <a id="top"></a>
@@ -25,7 +11,7 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-### Quick Links
+### Quick Links ![](https://komarev.com/ghpvc/?username=kkarthick12&label=PROFILE+VIEWS)
 - [👨‍💼 About Me](#about-me)
 - [🌟 My Favorite Projects](#my-favorite-projects)
 - [🔧 Skills](#skills)
@@ -146,7 +132,5 @@ Volunteer at AustinPetsAlive!, providing care and optimizing operations. Interes
 ## How to Reach Me: [⬆️ Scroll to top](#top)
 Feel free to connect with me if you are interested in collaborating on projects or if you want to discuss any of the topics I'm passionate about!
 - 📫 How to reach me: [karthick.k@utexas.edu](mailto:karthick.k@utexas.edu) or [LinkedIn](https://linkedin.com/in/kkarthick12)
-
-![](https://komarev.com/ghpvc/?username=kkarthick12&label=PROFILE+VIEWS)
 
 
