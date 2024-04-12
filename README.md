@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 _________
-## About Me [⬆️ Scroll to top](#top)
+## About Me: [⬆️ Scroll to top](#top)
 I'm Karthick Vel Kathirvel, currently mastering Business Analytics at The University of Texas, Austin. With a tech toolkit powered by Python, R, and SQL, I'm diving deep into big data to unearth insights that drive strategic business decisions.
 _________
 - 🔭 I’m currently working on a dynamic retail sales forecasting model using Apache Spark and Airflow.
@@ -65,7 +65,7 @@ As an investor aiming to maximize returns, how can you employ sophisticated hybr
 - **Solution:** A portfolio of stocks optimized to provide maximum returns, effectively emulating the NASDAQ-100 index.
 - **Technologies Used:** Python (Pandas, Gurobi).
 
-## Skills [⬆️ Scroll to top](#top) 
+## Skills: [⬆️ Scroll to top](#top) 
 <div align="center">
   <table border="1">
     <tr>
@@ -137,13 +137,13 @@ As an investor aiming to maximize returns, how can you employ sophisticated hybr
 </div>
 
 
-## Volunteering and Interests [⬆️ Scroll to top](#top)
+## Volunteering and Interests: [⬆️ Scroll to top](#top)
 
 Volunteer at AustinPetsAlive!, providing care and optimizing operations. Interests include Debating, Horology, IoT, Evolutionary Psychology, Deep Sea Diving, and Tennis.
 
 ---
 
-## How to Reach Me [⬆️ Scroll to top](#top)
+## How to Reach Me: [⬆️ Scroll to top](#top)
 Feel free to connect with me if you are interested in collaborating on projects or if you want to discuss any of the topics I'm passionate about!
 - 📫 How to reach me: [karthick.k@utexas.edu](mailto:karthick.k@utexas.edu) or [LinkedIn](https://linkedin.com/in/kkarthick12)
 
