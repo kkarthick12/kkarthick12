@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 _________
-## About Me
+## About Me [⬆️ Scroll to top](#top)
 I'm Karthick Vel Kathirvel, currently mastering Business Analytics at The University of Texas, Austin. With a tech toolkit powered by Python, R, and SQL, I'm diving deep into big data to unearth insights that drive strategic business decisions.
 _________
 - 🔭 I’m currently working on a dynamic retail sales forecasting model using Apache Spark and Airflow.
@@ -43,10 +43,9 @@ _________
 - 💬 Ask me about anything from data analytics to the best diving spots!
 - ⚡ Fun fact: I'm an avid debater and love exploring the complexities of evolutionary psychology.
 - 🏆 Certifications: Microsoft Certified Data Analyst - Power BI, Udemy Certified in Spark and Python for Big Data with PySpark
-[⬆️ Scroll to top](#top)
 
 
-## My Favorite Projects: 
+## My Favorite Projects: [⬆️ Scroll to top](#top)
 
 ### Deciding on an Electric Scooter - [Visit the project here](https://github.com/kkarthick12/ScooterRecommendation):
 How can you determine the best electric scooter to purchase using detailed analysis of user feedback and expert reviews on Amazon and YouTube?
@@ -65,9 +64,8 @@ As an investor aiming to maximize returns, how can you employ sophisticated hybr
 - **What do you need to have?:** Decide on the number of stocks you wish to invest in.
 - **Solution:** A portfolio of stocks optimized to provide maximum returns, effectively emulating the NASDAQ-100 index.
 - **Technologies Used:** Python (Pandas, Gurobi).
-[⬆️ Scroll to top](#top)
 
-## Skills 
+## Skills [⬆️ Scroll to top](#top) 
 <div align="center">
   <table border="1">
     <tr>
@@ -138,19 +136,16 @@ As an investor aiming to maximize returns, how can you employ sophisticated hybr
   </table>
 </div>
 
-[⬆️ Scroll to top](#top)
 
-## Volunteering and Interests 
+## Volunteering and Interests [⬆️ Scroll to top](#top)
 
 Volunteer at AustinPetsAlive!, providing care and optimizing operations. Interests include Debating, Horology, IoT, Evolutionary Psychology, Deep Sea Diving, and Tennis.
-[⬆️ Scroll to top](#top)
 
 ---
 
-## How to reach me [⬆️ Scroll to top](#top)
+## How to Reach Me [⬆️ Scroll to top](#top)
 Feel free to connect with me if you are interested in collaborating on projects or if you want to discuss any of the topics I'm passionate about!
 - 📫 How to reach me: [karthick.k@utexas.edu](mailto:karthick.k@utexas.edu) or [LinkedIn](https://linkedin.com/in/kkarthick12)
-[⬆️ Scroll to top](#top)
 
 ![](https://komarev.com/ghpvc/?username=kkarthick12&label=PROFILE+VIEWS)
 
