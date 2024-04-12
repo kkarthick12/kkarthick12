@@ -13,15 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a></div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=29&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+ <a id="top"></a>
+</div>
 
 <div align="center">
   <p>
-    📧 <a href="mailto:karthick.k@utexas.edu">karthick.k@utexas.edu</a> |
-    💼 <a href="https://www.linkedin.com/in/kkarthick12">LinkedIn</a> |
-    🌐 <a href="https://kkvel.com">Portfolio</a>
+    <a href="mailto:karthick.k@utexas.edu" ><img src="https://skillicons.dev/icons?i=gmail" style="width: 30px; height: 30px; vertical-align: middle;"/></a> |      
+    <a href="https://www.linkedin.com/in/kkarthick12" ><img src="https://skillicons.dev/icons?i=linkedin" style="width: 30px; height: 30px; vertical-align: middle;"/></a> |    
+    🌐<a href="https://kkvel.com"> <SPAN STYLE="font-size:24.0pt">(Portfolio)</SPAN></a>
   </p>
 </div>
+
+### Quick Links
+- [👨‍💼 About Me](#about-me)
+- [🌟 My Favorite Projects](#my-favorite-projects)
+- [🔧 Skills](#skills)
+- [📬 How to Reach Me](#how-to-reach-me)
+- [🌐 Volunteering and Interests](#volunteering-and-interests)
+
 
 _________
 ## About Me
@@ -33,8 +43,31 @@ _________
 - 💬 Ask me about anything from data analytics to the best diving spots!
 - ⚡ Fun fact: I'm an avid debater and love exploring the complexities of evolutionary psychology.
 - 🏆 Certifications: Microsoft Certified Data Analyst - Power BI, Udemy Certified in Spark and Python for Big Data with PySpark
-- 📫 How to reach me: [karthick.k@utexas.edu](mailto:karthick.k@utexas.edu)
+[⬆️ Scroll to top](#top)
 
+
+## My Favorite Projects: 
+
+### Deciding on an Electric Scooter - [Visit the project here](https://github.com/kkarthick12/ScooterRecommendation):
+How can you determine the best electric scooter to purchase using detailed analysis of user feedback and expert reviews on Amazon and YouTube?
+- **What do you need to have?** Identify three key features you want in a scooter.
+- **Solution:** A list of the top three scooters with detailed pros and cons for each, tailored to your chosen features.
+- **Technologies Used:** Python (Selenium, Pandas), GPT-4 (Large Language Model), Natural Language Processing.
+
+### Enhancing Metro Rail Operations - [Visit the project here](https://github.com/kkarthick12/ScooterRecommendation):
+As an executive responsible for metro rail efficiency, how can you apply advanced predictive maintenance techniques to reduce service interruptions and improve reliability?
+- **What do you need to have?:** Access to a day’s worth of sensor data from the trains.
+- **Solution:** Predictions on whether a train is likely to experience a breakdown within the next day, enabling proactive maintenance.
+- **Technologies Used:** Python, Autoencoders (Variational and Sparse).
+
+### Optimizing Financial Investments in the NASDAQ-100 - [Visit the project here](https://github.com/kkarthick12/NASDAQPortfolioConstructor):
+As an investor aiming to maximize returns, how can you employ sophisticated hybrid optimization techniques to accurately track the NASDAQ-100 index while ensuring cost-efficiency?
+- **What do you need to have?:** Decide on the number of stocks you wish to invest in.
+- **Solution:** A portfolio of stocks optimized to provide maximum returns, effectively emulating the NASDAQ-100 index.
+- **Technologies Used:** Python (Pandas, Gurobi).
+[⬆️ Scroll to top](#top)
+
+## Skills 
 <div align="center">
   <table border="1">
     <tr>
@@ -105,14 +138,20 @@ _________
   </table>
 </div>
 
-## Volunteering and Interests
+[⬆️ Scroll to top](#top)
+
+## Volunteering and Interests 
 
 Volunteer at AustinPetsAlive!, providing care and optimizing operations. Interests include Debating, Horology, IoT, Evolutionary Psychology, Deep Sea Diving, and Tennis.
+[⬆️ Scroll to top](#top)
 
 ---
 
+## How to reach me [⬆️ Scroll to top](#top)
 Feel free to connect with me if you are interested in collaborating on projects or if you want to discuss any of the topics I'm passionate about!
+- 📫 How to reach me: [karthick.k@utexas.edu](mailto:karthick.k@utexas.edu) or [LinkedIn](https://linkedin.com/in/kkarthick12)
+[⬆️ Scroll to top](#top)
 
-
+![](https://komarev.com/ghpvc/?username=kkarthick12&label=PROFILE+VIEWS)
 
 
