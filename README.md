@@ -23,10 +23,10 @@ _________
 ## About Me: [⬆️ Scroll to top](#top)
 I'm Karthick Vel Kathirvel, currently mastering Business Analytics at The University of Texas, Austin. With a tech toolkit powered by Python, R, and SQL, I'm diving deep into big data to unearth insights that drive strategic business decisions.
 _________
-- 🔭 I’m currently working on a dynamic retail sales forecasting model using Apache Spark and Airflow.
 - 🌱 I’m learning about sustainable supply chain optimizations through my capstone project with Celonis.
 - 👯 I’m looking to collaborate on projects that fuse analytics with real-world business applications.
 - 💬 Ask me about anything from data analytics to the best diving spots!
+- 🔭 I’m currently working on a dynamic retail sales forecasting model using Apache Spark and Airflow.
 - ⚡ Fun fact: I'm an avid debater and love exploring the complexities of evolutionary psychology.
 - 🏆 Certifications: Microsoft Certified Data Analyst - Power BI, Udemy Certified in Spark and Python for Big Data with PySpark
 
