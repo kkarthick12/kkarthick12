@@ -18,18 +18,35 @@
 - [📬 How to Reach Me](#how-to-reach-me)
 - [🌐 Volunteering and Interests](#volunteering-and-interests)
 
-
 _________
 ## About Me: [⬆️ Scroll to top](#top)
-I'm Karthick Vel Kathirvel, currently mastering Business Analytics at The University of Texas, Austin. With a tech toolkit powered by Python, R, and SQL, I'm diving deep into big data to unearth insights that drive strategic business decisions.
+I'm Karthick Vel Kathirvel, a recent graudate of MS in Business Analytics at The University of Texas, Austin. With a tech toolkit powered by Python, SQL, Power BI, Azure and Databricks, I'm diving deep into data science and analytics to unearth insights that drive strategic business decisions.
 _________
 - 🌱 I’m learning about sustainable supply chain optimizations through my capstone project with Celonis.
 - 👯 I’m looking to collaborate on projects that fuse analytics with real-world business applications.
-- 💬 Ask me about anything from data analytics to the best diving spots!
+- 💬 Ask me about anything from data science to the best diving spots!
 - 🔭 I’m currently working on a dynamic retail sales forecasting model using Apache Spark and Airflow.
 - ⚡ Fun fact: I'm an avid debater and love exploring the complexities of evolutionary psychology.
 - 🏆 Certifications: Microsoft Certified Data Analyst - Power BI, Udemy Certified in Spark and Python for Big Data with PySpark
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="70" height="70"><br>
+        <strong>LeetCode SQL Top 50 Badge</strong>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="Premium SQL 50 Badge" width="70" height="70"><br>
+        <strong>LeetCode SQL Advanced 50 Badge</strong>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://assets.leetcode.com/static_assets/others/Pandas.gif" alt="30 Days of Pandas Badge" width="70" height="70"><br>
+        <strong>LeetCode 30 Days of Pandas Badge</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## My Favorite Projects: [⬆️ Scroll to top](#top)
 
